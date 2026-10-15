@@ -1,4 +1,6 @@
-# GeoFree Windows AI
+# GeoFree AI для Windows и macOS
+
+**MacBook M1 и другие Mac:** откройте [инструкцию для macOS](mac/START_RU.md). Скрипты находятся в папке `mac` этой же ветки.
 
 Настройка доступа к нейросетям через файл hosts в Windows 10/11.
 Скрипт получает адреса из GeoHideDNS, перебирает кандидаты и проверяет HTTPS-соединение с ChatGPT, OpenAI API, Claude и Gemini.
